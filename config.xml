@@ -16,6 +16,7 @@
   <author href="https://build.phonegap.com" email="rm218691@gmail.com">
       Rahul Guptha
   </author>
+    <preference name="android-targetSdkVersion" value="28" />
     <preference name = "orientation" value = "portrait" />
     
 </widget>
